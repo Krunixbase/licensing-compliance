@@ -78,6 +78,9 @@ licensing/compliance
 │   ├── compliance-considerations.md
 │   └── jurisdiction-notes.md
 │
+├── controls/
+│   └── Controls_Checklist.md
+│
 ├── licensing/
 │   ├── license-context.md
 │   ├── attribution-guidelines.md
@@ -97,6 +100,15 @@ licensing/compliance
 └── LICENSE
 
 ```
+
+## Security & Compliance
+
+- Controls Checklist
+- Security Policies
+- Audit Documentation
+- Evidence Collection Standards
+
+---
 
 ## Status
 
